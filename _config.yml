@@ -20,10 +20,9 @@
 
 title: Thomas Chambon
 email: chambon.thomas.pro
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: I have a PhD in computer science and am currently a post-doc in computer vision. 
+During my thesis, I worked on the impact of information transmitted to the user and its influence on the evolution of his behavior.
+I'm interested in improving image segmentation using community detection methods (Louvain Method, SBM) in graphs, but also with dedicated neural networks (GNN).
 domain: thomas-chambon.github.io/  # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thomas-chambon.github.io/website/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -33,6 +32,9 @@ github_username:  Thomas-Chambon
 scholar_username: Thomas Chambon
 linkedin_username: thomaschambon
 researchgate_username: Thomas_Chambon3
+
+# Github
+github: [metadata]
 
 
 
