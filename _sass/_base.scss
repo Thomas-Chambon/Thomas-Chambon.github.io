@@ -52,7 +52,7 @@ p {
 }
 
 .text-faded {
-    color: rgba(white, .7);
+    color: rgba(black, .7);
 }
 
 section {
@@ -300,7 +300,7 @@ header {
 }
 
 .btn-primary {
-    @include button-variant(white, $theme-primary, $theme-primary);
+    @include button-variant(black, $theme-primary, $theme-primary);
 }
 
 .btn {
