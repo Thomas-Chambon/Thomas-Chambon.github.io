@@ -36,7 +36,8 @@ researchgate_username: Thomas_Chambon3
 # Github
 github: [metadata]
 
-
+# Google Analytics
+google_analytics: G-ZG0BPVT8VL
 
 # Exclude from processing.
 # The following items will not be processed, by default.
