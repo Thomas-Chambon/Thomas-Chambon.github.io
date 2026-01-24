@@ -3,35 +3,25 @@
 
 @charset "utf-8";
 
-// Example Defaults
-// $base-font-family: Helvetica, Arial, sans-serif;
-// $base-font-size:   16px;
-// $small-font-size:  $base-font-size * 0.875;
-// $base-line-height: 1.5;
+// For "Portfolio" section images
 
-// $spacing-unit:     30px;
+#portfolio .container-fluid {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
 
-// $text-color:       #111;
-// $background-color: #fdfdfd;
-// $brand-color:      #2a7ae2;
+#portfolio .row.no-gutter {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
 
-// $grey-color:       #828282;
-// $grey-color-light: lighten($grey-color, 40%);
-// $grey-color-dark:  darken($grey-color, 25%);
+#portfolio [class*="col-"] {
+    padding: 0 !important;
+}
 
-// // Width of the content area
-// $content-width:    800px;
-
-// $on-palm:          600px;
-// $on-laptop:        800px;
-
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
+#portfolio {
+    background-color: #1f1f1f;
+}
 
 // variables.less
 $theme-primary: #F05F40;
