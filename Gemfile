@@ -40,3 +40,5 @@ gem "webrick", "~> 1.8"
 gem "logger", "~> 1.7"
 
 gem "csv", "~> 3.3"
+
+gem "bigdecimal", "~> 4.0.1"
