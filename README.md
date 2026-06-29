@@ -1,7 +1,7 @@
 # Personal website of Thomas Chambon (PH.D. in computer science)
 
-AI Scientist with 6 years of experience specializing in Deep Learning, 
-Natural Language Processing, and Computer Vision. 
-Skilled in designing advanced NLP pipelines and developing robust computer vision systems. 
-Strong expertise in optimizing and deploying neural architectures into production environments. 
-Fully proficient in the end-to-end AI project lifecycle, from exploratory R&D to large-scale industrialization.
+AI Data Scientist (5+ years of experience) specializing in Computer Vision, NLP, and Deep Learning.
+Heavily invested in Generative AI, I develop advanced personal projects focused on AI Agents
+(LangChain, MCP server). My background bridges the gap between scientific rigor (Ph.D.,
+international publications) and industrialization, with proven experience deploying complex models
+on HPC infrastructures and scaling applications to 1,000+ active users.
