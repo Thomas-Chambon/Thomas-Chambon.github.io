@@ -20,9 +20,9 @@
 
 title: Thomas Chambon
 email: chambon.thomas.pro
-description: "I have a PhD in computer science and am currently a post-doc in computer vision. 
-During my thesis, I worked on the impact of information transmitted to the user and its influence on the evolution of his behavior.
-I'm interested in improving image segmentation using community detection methods (Louvain Method, SBM) in graphs, but also with dedicated neural networks (GNN)."
+description: "I Data Scientist (6+ years of experience) specializing in Computer Vision, NLP, and Deep Learning.
+Heavily invested in Generative AI, I develop advanced personal projects focused on AI Agents (LangChain/LangGraph, MCP server).
+My background bridges the gap between scientific rigor (Ph.D., international publications) and industrialization, with proven experience deploying complex models on HPC infrastructures and scaling applications to 1,000+ active users."
 domain: thomas-chambon.github.io/  # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thomas-chambon.github.io/website/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -39,22 +39,4 @@ github: [metadata]
 # Google Analytics
 google_analytics: G-ZG0BPVT8VL
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
